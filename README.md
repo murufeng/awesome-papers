@@ -45,7 +45,7 @@ Google三大篇，HDFS，MapReduce，BigTable，奠定大数据基础架构的�
 
 ### awesome-deep-learning-papers
 深度学习（Deep Learning）的最全资料项目
-* [Most Cited Deep Learning Papers](https://github.com/murufeng/papers/blob/master/awesome-deep-learning-papers/Most%20Cited%20Deep%20Learning%20Papers.md) <br />
+* [Most Cited Deep Learning Papers](https://github.com/murufeng/papers/blob/master/deep-learning-papers/Most%20Cited%20Deep%20Learning%20Papers.md) <br />
 
 
 ### Image-to-Image papers
