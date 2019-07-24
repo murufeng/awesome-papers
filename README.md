@@ -43,6 +43,9 @@ Google三大篇，HDFS，MapReduce，BigTable，奠定大数据基础架构的�
 * [Word Sense Disambiguation](https://github.com/murufeng/papers/blob/master/NLP-progress/Word%20Sense%20Disambiguation.md) <br />
 * [XLNet_Generalized Autoregressive Pretraining for Language Understanding](https://github.com/murufeng/papers/blob/master/NLP-progress/XLNet_Generalized%20Autoregressive%20Pretraining%20for%20Language%20Understanding.pdf) <br />
 
+### awesome-deep-learning-papers
+* [Most Cited Deep Learning Papers](https://github.com/murufeng/papers/blob/master/awesome-deep-learning-papers/Most%20Cited%20Deep%20Learning%20Papers.md) <br />
+
 
 ### Image-to-Image papers
 * [Image to Image papers: A collection of image-to-image papers](https://github.com/murufeng/papers/blob/master/Image-to-Image%20papers.md)
