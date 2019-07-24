@@ -11,7 +11,23 @@
 * [MapReduce Simplified Data Processing on Large Clusters](https://github.com/murufeng/papers/blob/master/Google%20Three%20Papers/MapReduce%20Simplified%20Data%20Processing%20on%20Large%20Clusters.pdf) <br />
 * [The Google File System](https://github.com/murufeng/papers/blob/master/Google%20Three%20Papers/The%20Google%20File%20System.pdf) <br />
 
+### Image_Processing
+* [CVPR19-FOCNet_ A Fractional Optimal Control Network for Image Denoising](https://github.com/murufeng/papers/blob/master/Image_Processing/CVPR19-FOCNet_%20A%20Fractional%20Optimal%20Control%20Network%20for%20Image%20Denoising_Lei%20Zhang.pdf) <br />
+* [Multi-Label Image Recognition with Graph Convolutional Networks](https://github.com/murufeng/papers/blob/master/Image_Processing/Multi-Label%20Image%20Recognition%20with%20Graph%20Convolutional%20Networks.pdf) <br />
+* [T-CNN](https://github.com/murufeng/papers/blob/master/Image_Processing/T-CNN.pdf) <br />
+
+### NLP-progress
+* [Chinese Word Segmentation](https://github.com/murufeng/papers/blob/master/NLP-progress/Chinese%20Word%20Segmentation.md)
+* [BERT_Pre-training of Deep Bidirectional Transformers for Language Understanding](https://github.com/murufeng/papers/blob/master/NLP-progress/BERT_Pre-training%20of%20Deep%20Bidirectional%20Transformers%20for%20Language%20Understanding.pdf) <br />
+* [XLNet_Generalized Autoregressive Pretraining for Language Understanding](https://github.com/murufeng/papers/blob/master/NLP-progress/XLNet_Generalized%20Autoregressive%20Pretraining%20for%20Language%20Understanding.pdf) <br />
+
 
 ### Image-to-Image papers
-* [[Image to Image papers] (A collection of image-to-image papers) ] (https://github.com/murufeng/papers/blob/master/Image-to-Image%20papers.md)
+* [[Image to Image papers](A collection of image-to-image papers)](https://github.com/murufeng/papers/blob/master/Image-to-Image%20papers.md)
+
+### Attention-Mechanisms-paper
+* [注意力机制在自然语言处理方面的文章笔记](https://github.com/murufeng/papers/blob/master/Attention-Mechanisms-paper.md) <br />
+
+### GNN papers
+* [[Must-read papers on GNN] (GNN: graph neural network)] (https://github.com/murufeng/papers/blob/master/GNN_papers.md) <br />
 
