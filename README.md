@@ -2,7 +2,7 @@
 
 ## 目录
 ### Object detection
-顶级期刊目标检测方向收录论文
+目标检测最全论文集锦
 * [Object detection](https://github.com/murufeng/papers/tree/master/Object-detection) <br />
 
 ### Embedding 
