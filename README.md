@@ -1,9 +1,14 @@
 ## 机器学习、深度学习、自然语言处理、计算机视觉顶级期刊的论文资料分享
 
 ## 目录
+
 ### Object detection
 目标检测最全论文集锦
 * [Object detection](https://github.com/murufeng/papers/tree/master/Object-detection) <br />
+
+### deep_learning object detection
+* [A paper list of object detection using deep learning](https://github.com/murufeng/papers/blob/master/deep_learning%20object%20detection/papers.md) <br />
+
 
 ### Embedding 
 * [[Airbnb Embedding] Real-time Personalization using Embeddings for Search Ranking at Airbnb (Airbnb 2018)](https://github.com/murufeng/papers/blob/master/Embedding/%5BAirbnb%20Embedding%5D%20Real-time%20Personalization%20using%20Embeddings%20for%20Search%20Ranking%20at%20Airbnb%20(Airbnb%202018).pdf) <br />
