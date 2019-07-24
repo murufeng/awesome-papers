@@ -23,7 +23,7 @@
 
 
 ### Image-to-Image papers
-* [Image to Image papers(A collection of image-to-image papers)](https://github.com/murufeng/papers/blob/master/Image-to-Image%20papers.md)
+* [Image to Image papers: A collection of image-to-image papers](https://github.com/murufeng/papers/blob/master/Image-to-Image%20papers.md)
 
 ### Attention-Mechanisms-paper
 * [注意力机制在自然语言处理方面的文章笔记](https://github.com/murufeng/papers/blob/master/Attention-Mechanisms-paper.md) <br />
