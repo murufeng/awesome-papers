@@ -40,7 +40,7 @@ The part highlighted with red characters means papers that i think "must-read".
 However, it is **my personal opinion** and other papers are important too, so I recommend to read them if you have time.
 
 <p align="center">
-  <img width="1000" src="/deep_learning_object_detection_history.PNG" "Example of object detection.">
+  <img width="1000" src="deep_learning_object_detection_history.PNG" "Example of object detection.">
 </p>
 
 ##
