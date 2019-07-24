@@ -44,6 +44,7 @@ Google三大篇，HDFS，MapReduce，BigTable，奠定大数据基础架构的�
 * [XLNet_Generalized Autoregressive Pretraining for Language Understanding](https://github.com/murufeng/papers/blob/master/NLP-progress/XLNet_Generalized%20Autoregressive%20Pretraining%20for%20Language%20Understanding.pdf) <br />
 
 ### awesome-deep-learning-papers
+深度学习（Deep Learning）的最全资料项目
 * [Most Cited Deep Learning Papers](https://github.com/murufeng/papers/blob/master/awesome-deep-learning-papers/Most%20Cited%20Deep%20Learning%20Papers.md) <br />
 
 
