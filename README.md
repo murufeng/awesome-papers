@@ -29,5 +29,5 @@
 * [注意力机制在自然语言处理方面的文章笔记](https://github.com/murufeng/papers/blob/master/Attention-Mechanisms-paper.md) <br />
 
 ### GNN papers
-* [[Must-read papers on GNN]GNN: graph neural network] (https://github.com/murufeng/papers/blob/master/GNN_papers.md) <br />
+* [[Must-read papers on GNN] GNN: graph neural network](https://github.com/murufeng/papers/blob/master/GNN_papers.md) <br />
 
