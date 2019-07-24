@@ -1,6 +1,10 @@
-## 机器学习、深度学习、自然语言处理方面顶级期刊的论文资料分享
+## 机器学习、深度学习、自然语言处理、计算机视觉顶级期刊的论文资料分享
 
 ## 目录
+### Object detection
+目标检测的论文收录，期刊主要有CVPR、ICCV等
+* [Object detection](https://github.com/murufeng/papers/tree/master/Object-detection) <br />
+
 ### Embedding 
 * [[Airbnb Embedding] Real-time Personalization using Embeddings for Search Ranking at Airbnb (Airbnb 2018)](https://github.com/murufeng/papers/blob/master/Embedding/%5BAirbnb%20Embedding%5D%20Real-time%20Personalization%20using%20Embeddings%20for%20Search%20Ranking%20at%20Airbnb%20(Airbnb%202018).pdf) <br />
 * [[Alibaba Embedding] Billion-scale Commodity Embedding for E-commerce Recommendation in Alibaba (Alibaba 2018)](https://github.com/murufeng/papers/blob/master/Embedding/%5BAlibaba%20Embedding%5D%20Billion-scale%20Commodity%20Embedding%20for%20E-commerce%20Recommendation%20in%20Alibaba%20(Alibaba%202018).pdf) <br />
