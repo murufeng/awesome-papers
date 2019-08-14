@@ -1,8 +1,6 @@
 [TOC]
 # 机器学习、深度学习、自然语言处理、计算机视觉顶级期刊的论文资料分享
-
 ## 目录
-
 ### Object detection
 目标检测最全论文集锦
 * [Object detection](https://github.com/murufeng/papers/tree/master/Object-detection) <br />
