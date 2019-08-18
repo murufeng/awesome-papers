@@ -74,6 +74,9 @@ Google三大篇，HDFS，MapReduce，BigTable，奠定大数据基础架构的�
 ### Must-read Papers on Textual Adversarial Attack and Defense (TAAD)
 * [Must-read Papers on Textual Adversarial Attack and Defense (TAAD)](https://github.com/murufeng/papers/blob/master/TAADpapers.md) <br />
 
+### Papers-of-Robust-ML
+* [Related papers for robust machine learning](https://github.com/murufeng/papers/blob/master/Papers-of-Robust-ML.md)
+
 
 ## 分享计算机视觉方向顶级期刊录用论文
 
