@@ -1,6 +1,6 @@
 2019-10-11 Update 1 Project
 
-Detectron2
+**Detectron2**
 
 - intro: Detectron2 is FAIR's next-generation research platform for object detection and segmentation.
 - [blog](https://ai.facebook.com/blog/-detectron2-a-pytorch-based-modular-object-detection-library-/)
@@ -8,10 +8,10 @@ code: [https://github.com/facebookresearch/detectron2](https://github.com/facebo
 
 2019-09-06 Update 1 paper
 
-Imbalance Problems in Object Detection: A Review
+**Imbalance Problems in Object Detection: A Review**
 
-intro: under review at TPAMI
-arXiv: <https://arxiv.org/abs/1909.00169>
+- intro: under review at TPAMI
+- arXiv: <https://arxiv.org/abs/1909.00169>
 
 2019-08-14 Update 1 paper
 
