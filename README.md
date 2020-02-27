@@ -1,5 +1,7 @@
 # 机器学习、深度学习、自然语言处理、计算机视觉论文集
 
+[![GitHub stars](https://img.shields.io/github/stars/murufeng/awesome-papers.svg?style=social&label=Stars)](https://github.com/murufeng/awesome-papers) [![GitHub forks](https://img.shields.io/github/forks/murufeng/awesome-papers.svg?style=social&label=Forks)](https://github.com/murufeng/awesome-papers) [![HitCount](http://hits.dwyl.io/murufeng/awesome-papers.svg)](http://hits.dwyl.io/murufeng/awesome-papers)
+
 ## 目录
 
 ### Object detection
