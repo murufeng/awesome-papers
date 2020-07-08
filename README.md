@@ -83,6 +83,9 @@ Google三大篇，HDFS，MapReduce，BigTable，奠定大数据基础架构的�
 ## 分享计算机视觉方向顶级期刊录用论文
 
 **CVPR**
+- 2020 
+  - [CVPR2020录用论文清单]
+  - [CVPR2020论文列表和代码汇总]
 
 - 2019
   - [CVPR 2019所有录用论文清单](<http://openaccess.thecvf.com/CVPR2019.py>) 
@@ -93,7 +96,9 @@ Google三大篇，HDFS，MapReduce，BigTable，奠定大数据基础架构的�
 - 2017
   - CVPR 2017论文PDF下载：[百度云链接](https://pan.baidu.com/s/1RP1wQBFxs8BT0KBLiukxBw)   密码: hnzg
 
-**ECCV 2018**
+**ECCV**
+- 2020 
+  - [ECCV2020接受论文列表](https://eccv2020.eu/accepted-papers/)
 
 - 2018
   - [ECCV 2018所有录用论文清单](http://openaccess.thecvf.com/ECCV2018.py) 
