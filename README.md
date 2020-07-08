@@ -84,8 +84,8 @@ Google三大篇，HDFS，MapReduce，BigTable，奠定大数据基础架构的�
 
 **CVPR**
 - 2020 
-  - [CVPR2020录用论文清单]
-  - [CVPR2020论文列表和代码汇总]
+  - [CVPR2020录用论文清单](http://cvpr2020.thecvf.com/)
+  - [CVPR2020论文列表和代码汇总](https://github.com/murufeng/awesome-papers/tree/master/CVPR%202020)
 
 - 2019
   - [CVPR 2019所有录用论文清单](<http://openaccess.thecvf.com/CVPR2019.py>) 
